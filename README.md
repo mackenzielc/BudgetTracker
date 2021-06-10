@@ -14,6 +14,9 @@ GIVEN a user is on Budget App without an internet connection
 WHEN the user inputs a withdrawal or deposit
 THEN that will be shown on the page, and added to their transaction history when their connection is back online.
 
+## Access
+Link to app: https://sheltered-eyrie-92066.herokuapp.com/ 
+
 ## How to use
 1. Open the app
 ![app screenshot](./public/images/image.png)
@@ -32,5 +35,3 @@ THEN that will be shown on the page, and added to their transaction history when
 ![bulk](./public/images/bulk.png)
 
 
-## Access
-Link to app: 
